@@ -7,56 +7,59 @@ import static org.testng.Assert.assertTrue;
 public class Jenkins {
 
     @Test
-    void Test1(){
+    public void Test1(){
         assertTrue(true);
     }
     @Test
-    void Test2(){
+    public void Test2(){
         assertTrue(true);
     }
     @Test
-    void Test3(){
+    public void Test3(){
         assertTrue(true);
     }
     @Test
-    void Test4(){
+    public void Test4(){
         assertTrue(true);
     }
     @Test
-    void Test5(){
+    public void Test5(){
         assertTrue(true);
     }
     @Test
-    void Test6(){assertTrue(true);}
-    @Test
-    void Test7(){ assertTrue(true);}
-    @Test
-    void Test8(){
+    public void Test6(){
         assertTrue(true);
     }
     @Test
-    void Test9(){
+    public void Test7(){
         assertTrue(true);
     }
     @Test
-    void Test10(){
+    public void Test8(){
         assertTrue(true);
     }
     @Test
-    void Test11(){
+    public void Test9(){
         assertTrue(true);
     }
     @Test
-    void Test12(){
+    public void Test10(){
         assertTrue(true);
     }
     @Test
-    void Test13(){
+    public void Test11(){
         assertTrue(true);
     }
     @Test
-    void Test14(){
+    public void Test12(){
+        assertTrue(true);
+    }
+    @Test
+    public void Test13(){
+        assertTrue(true);
+    }
+    @Test
+    public void Test14(){
         assertTrue(false);
     }
-
 }
